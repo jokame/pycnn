@@ -1,3 +1,8 @@
-#Ignore gedit backup files
+#Ignored files
 
 *~
+*.cnn
+*.pyc
+
+#Ignored directories
+bd/**/*
