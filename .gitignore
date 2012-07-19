@@ -1,10 +1,10 @@
-#Ignored files
+#Files
 
 *~
 *.cnn
 *.pyc
 
-#Ignored directories
+#Directories
 bd/
 otro_intento/
 pendiente_probar/
